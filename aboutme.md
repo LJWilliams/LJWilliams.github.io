@@ -4,7 +4,7 @@ title: Lynne J. Williams
 subtitle: Publications and Other Stuff
 ---
 
-![Caption for the picture.](./img/gaston-conference.jpeg)
+![Caption for the picture.](/img/gaston-conference.jpeg)
 
 Technology Integration Manager
 BC Children's Hospital Research MRI
