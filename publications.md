@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: 
+subtitle: Subtitle Here
 ---
 
 Divergence of CPU and GPU diffusion tensor imaging parameter estimates related
