@@ -5,6 +5,7 @@ subtitle: Publications and Other Stuff
 ---
 
 ![](/img/gaston-conference.jpeg#left)
+<p>
 Technology Integration Manager  
 BC Children's Hospital Research MRI  
 BC Children's Hospital  
@@ -13,9 +14,12 @@ Vancouver, BC
 V6H 3N1
 
 Tel: (604) 875-2000
+</p>
 
 # Publications
+
 ## Books
+
 Exercises for Experimental Design and Analysis for Psychology
 Hervé Abdi, Lynne J. Williams, Betty Edelman, Dominique Valentin, Mette Posamentier
 Oxford University Press: Oxford, UK, 2010
