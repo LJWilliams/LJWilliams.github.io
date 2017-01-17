@@ -5,10 +5,11 @@ subtitle: Publications and Other Stuff
 ---
 <img align="left" src="/img/gaston-conference.jpeg">
 
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 | Technology Integration Manager |
 |-----------------------------------|
