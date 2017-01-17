@@ -21,19 +21,13 @@ subtitle: Publications and Other Stuff
 
 ## Books
 
-[Exercises for Experimental Design and Analysis for Psychology](http://global.oup.com/uk/orc/psychology/abdi/)   
-Hervé Abdi, Lynne J. Williams, Betty Edelman, Dominique Valentin, Mette Posamentier  
-Oxford University Press: Oxford, UK, 2010
+Hervé Abdi, Lynne J. Williams, Betty Edelman, Dominique Valentin, Mette Posamentier. [Exercises for Experimental Design and Analysis for Psychology](http://global.oup.com/uk/orc/psychology/abdi/). Oxford University Press: Oxford, UK, 2010
 [Errata (Oooooops!)](http://www.utdallas.edu/~herve/Errata_AEVD09.pdf)
 [New chapters: Matrix Algebra and General Linear Model](http://www.utdallas.edu/~herve/HerveAbdi_OUP_EDAP_NewChapters_February2011.pdf) 
 
-[R Companion for Experimental Design and Analysis for Psychology](http://www.utdallas.edu/~herve/R_comp4Abdi_ExperimentalDesign.pdf)  
-Lynne J. Williams, Anjali Krishnan, Hervé Abdi  
-Oxford University Press: Oxford, UK, 2009
+Lynne J. Williams, Anjali Krishnan, Hervé Abdi. [R Companion for Experimental Design and Analysis for Psychology](http://www.utdallas.edu/~herve/R_comp4Abdi_ExperimentalDesign.pdf). Oxford University Press: Oxford, UK, 2009
 
-[SAS Companion for Experimental Design and Analysis for Psychology](http://www.utdallas.edu/~herve/SAS_comp4Abdi_ExperimentalDesign.pdf)
-Lynne J. Williams, Mette T. Posamentier, Betty E. Edelman, Hervé Abdi
-Oxford University Press: Oxford, UK, 2009
+Lynne J. Williams, Mette T. Posamentier, Betty E. Edelman, Hervé Abdi. [SAS Companion for Experimental Design and Analysis for Psychology](http://www.utdallas.edu/~herve/SAS_comp4Abdi_ExperimentalDesign.pdf). Oxford University Press: Oxford, UK, 2009
 
 ## Articles (Peer Reviewed)
 Learning, neural plasticity and sensitive periods: implications for language acquisition, music training and transfer across the lifespan
