@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publications
+subtitle: 
+---
+
 Divergence of CPU and GPU diffusion tensor imaging parameter estimates related
 to pseudo-random number generators
 Danny H. C. Kim, Lynne J. Williams, Bruce H. Bjornson
