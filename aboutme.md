@@ -4,7 +4,7 @@ title: Lynne J. Williams
 subtitle: Publications and Other Stuff
 ---
 
-<div style="float: right">
+<div style="float: right" markdown="1">
 ![](/img/gaston-conference.jpeg)
  </div>
 Technology Integration Manager  
