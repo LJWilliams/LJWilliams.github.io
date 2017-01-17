@@ -27,9 +27,9 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
-  About Me: "aboutme"
+  Home: "aboutme"
   Publications: "publications"
+  Blog: ""
   #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
