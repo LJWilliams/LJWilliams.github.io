@@ -4,6 +4,9 @@ title: Lynne J. Williams
 subtitle: Publications and Other Stuff
 ---
 
+![](/img/gaston-conference.jpeg#right)
+img[src*='#right']{ float: right; }
+
 <div style="float: right" markdown="1">
 ![](/img/gaston-conference.jpeg)
  </div>
