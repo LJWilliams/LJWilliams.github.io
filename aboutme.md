@@ -5,7 +5,7 @@ subtitle: Publications and Other Stuff
 ---
 
 ![](/img/gaston-conference.jpeg#left)
-<p>
+<div>
 Technology Integration Manager  
 BC Children's Hospital Research MRI  
 BC Children's Hospital  
@@ -14,7 +14,7 @@ Vancouver, BC
 V6H 3N1
 
 Tel: (604) 875-2000
-</p>
+</div>
 
 # Publications
 
