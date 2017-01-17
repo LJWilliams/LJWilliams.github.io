@@ -5,7 +5,7 @@ subtitle: Publications and Other Stuff
 ---
 
 <div style="float: right">
-  ![](/img/gaston-conference.jpeg)
+![](/img/gaston-conference.jpeg)
  </div>
 Technology Integration Manager  
 BC Children's Hospital Research MRI  
