@@ -3,8 +3,7 @@ layout: page
 title: Lynne J. Williams
 subtitle: Publications and Other Stuff
 ---
-
-![](/img/gaston-conference.jpeg#left)
+<img align="left" src="/img/gaston-conference.jpeg">
 
 | Technology Integration Manager |
 |-----------------------------------|
