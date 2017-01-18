@@ -16,6 +16,15 @@ h6,
   color: #2990AB;
 }
 
+/* --- Link Color --- */
+a {
+  color: #42743F;
+}
+a:hover,
+a:focus {
+  color: #0085a1;
+}
+
 /* --- Navbar --- */
 
 .navbar-custom {
