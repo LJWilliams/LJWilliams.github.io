@@ -3949,7 +3949,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #FFFFFF;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #FFFFFF;
+  color: #eeeeee;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
