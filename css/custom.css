@@ -28,11 +28,11 @@ a:visited {
 }
 /* mouse over link blue */
 a:hover {
-  color: #E15543;
+  color: #0CF;
 }
 /* selected link blue */ 
 a:active {
-  color: #E15543;
+  color: #D81900;
 }
 
 /* --- Navbar --- */
