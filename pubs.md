@@ -4,7 +4,7 @@ layout: page
 title: Lynne J. Williams
 subtitle: Publications and Other Stuff
 ---
-<img align="left" src="/img/gaston-conference.jpeg" style="width: 200px;">
+<img align="left" src="/img/gaston-conference.jpeg" style="width: 450px;">
 
 <section class="jumbotron">
 <h3>Technology Integration Manager</h3>
