@@ -30,9 +30,7 @@ Lynne J. Williams, Anjali Krishnan, Hervé Abdi. [R Companion for Experimental D
 Lynne J. Williams, Mette T. Posamentier, Betty E. Edelman, Hervé Abdi. [SAS Companion for Experimental Design and Analysis for Psychology](http://www.utdallas.edu/~herve/SAS_comp4Abdi_ExperimentalDesign.pdf). Oxford University Press: Oxford, UK, 2009
 
 ## Articles (Peer Reviewed)
-Learning, neural plasticity and sensitive periods: implications for language acquisition, music training and transfer across the lifespan
-Erin J White, Stefanie A Hutka, Lynne J Williams, Sylvain Moreno
-Frontiers in Systems Neuroscience 7.90 (2013) DOI: 10.3389/fnsys.2013.00090
+Erin J White, Stefanie A Hutka, Lynne J Williams, Sylvain Moreno. [Learning, neural plasticity and sensitive periods: implications for language acquisition, music training and transfer across the lifespan](/pubs/fnsys-07-00090.pdf). Frontiers in Systems Neuroscience 7.90 (2013) DOI: 10.3389/fnsys.2013.00090
 
 The survey of autobiographical memory (SAM): A novel measure of trait mnemonics in everyday life
 Daniela J. Palombo, Lynne J. Williams, Hervé Abdi, Brian Levine
