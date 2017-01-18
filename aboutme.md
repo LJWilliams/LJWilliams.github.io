@@ -19,6 +19,8 @@ subtitle: Publications and Other Stuff
 
 # Publications
 
+[Publication Metrics](https://scholar.google.ca/citations?user=PceWcxkAAAAJ&hl=en)
+
 ## Books
 
 Hervé Abdi, Lynne J. Williams, Betty Edelman, Dominique Valentin, Mette Posamentier. [Exercises for Experimental Design and Analysis for Psychology](http://global.oup.com/uk/orc/psychology/abdi/). Oxford University Press: Oxford, UK, 2010  
