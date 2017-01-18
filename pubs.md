@@ -1,4 +1,5 @@
 ---
+redirect_from: ""
 layout: page
 title: Lynne J. Williams
 subtitle: Publications and Other Stuff
