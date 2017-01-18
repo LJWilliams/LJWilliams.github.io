@@ -22,8 +22,8 @@ subtitle: Publications and Other Stuff
 ## Books
 
 Hervé Abdi, Lynne J. Williams, Betty Edelman, Dominique Valentin, Mette Posamentier. [Exercises for Experimental Design and Analysis for Psychology](http://global.oup.com/uk/orc/psychology/abdi/). Oxford University Press: Oxford, UK, 2010  
-[Errata (Oooooops!)](http://www.utdallas.edu/~herve/Errata_AEVD09.pdf)  
-[New chapters: Matrix Algebra and General Linear Model](http://www.utdallas.edu/~herve/HerveAbdi_OUP_EDAP_NewChapters_February2011.pdf) 
+- [Errata (Oooooops!)](http://www.utdallas.edu/~herve/Errata_AEVD09.pdf)  
+- [New chapters: Matrix Algebra and General Linear Model](http://www.utdallas.edu/~herve/HerveAbdi_OUP_EDAP_NewChapters_February2011.pdf) 
 
 Lynne J. Williams, Anjali Krishnan, Hervé Abdi. [R Companion for Experimental Design and Analysis for Psychology](http://www.utdallas.edu/~herve/R_comp4Abdi_ExperimentalDesign.pdf). Oxford University Press: Oxford, UK, 2009
 
