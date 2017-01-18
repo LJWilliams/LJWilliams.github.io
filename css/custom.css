@@ -20,15 +20,15 @@ h6,
 
 /* unvisited link red */
 a:link {
-  color: #42743F;
+  color: #6EC069;
 }
 /* visited link grey */
 a:visited {
-  color: #42743F;
+  color: #6EC069;
 }
 /* mouse over link blue */
 a:hover {
-  color: #6EC069;
+  color: #E15543;
 }
 /* selected link blue */ 
 a:active {
