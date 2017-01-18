@@ -17,7 +17,7 @@ subtitle: Publications and Other Stuff
 
 
 # Publications
-[Orchid ID](orcid.org/0000-0001-6790-1362)<br>
+[Orchid ID](orcid.org/0000-0001-6790-1362) | 
 [Google Scholar Publication Metrics](https://scholar.google.ca/citations?user=PceWcxkAAAAJ&hl=en)
 
 ## Books
