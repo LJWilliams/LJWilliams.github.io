@@ -56,7 +56,7 @@ Hervé Abdi, Joseph P. Dunlop, Lynne J. Williams. [How to compute reliability es
 Lynne J. Williams-Hubbard. [Cognitive-flexibility in macrostructure processing by older adults](/pubs/Williams_Macrostructure.pdf)
 Brain and Language 99 (2006) pp. 187–188
 
-Gloria Streit Olness, Hanna K. Ulatowska, Claire Carpenter, Lynne J. Williams, Julianna C. Dykes. Toward holistic assessmnt of narrative quality: a clinical perspective. Aphasiology 19 (2005) pp. 215–220
+Gloria Streit Olness, Hanna K. Ulatowska, Claire Carpenter, Lynne J. Williams, Julianna C. Dykes. Toward holistic assessment of narrative quality: a clinical perspective. Aphasiology 19 (2005) pp. 215–220
 
 Hanna K. Ulatowska, Gloria Streit Olness, Lynne J. Williams-Hubbard. [Macrostructure revisited: An examination of gist responses in aphasia](/pubs/Ulatowska_Macrostructure.pdf). Brain and Language 35 (2005) pp. 109–110
 
