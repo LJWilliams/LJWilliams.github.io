@@ -32,25 +32,15 @@ Lynne J. Williams, Mette T. Posamentier, Betty E. Edelman, Hervé Abdi. [SAS Com
 ## Articles (Peer Reviewed)
 Erin J White, Stefanie A Hutka, Lynne J Williams, Sylvain Moreno. [Learning, neural plasticity and sensitive periods: implications for language acquisition, music training and transfer across the lifespan](/pubs/fnsys-07-00090.pdf). Frontiers in Systems Neuroscience 7.90 (2013) DOI: 10.3389/fnsys.2013.00090
 
-The survey of autobiographical memory (SAM): A novel measure of trait mnemonics in everyday life
-Daniela J. Palombo, Lynne J. Williams, Hervé Abdi, Brian Levine
-Cortex 49.6 (2013) pp. 1526–1540. DOI: http://dx.doi.org/10.1016/j.cortex.2012.08.023
+Daniela J. Palombo, Lynne J. Williams, Hervé Abdi, Brian Levine. [The survey of autobiographical memory (SAM): A novel measure of trait mnemonics in everyday life](https://www.utdallas.edu/~herve/abdi-pwal2012-SAM.pdf). Cortex 49.6 (2013) pp. 1526–1540. DOI: http://dx.doi.org/10.1016/j.cortex.2012.08.023
 
-Multiple factor analysis: principal component analysis for multitable and multiblockdata sets
-Hervé Abdi, Lynne J. Williams, Domininique Valentin
-Wiley Interdisciplinary Reviews: Computational Statistics 5.2 (2013) pp. 149–179. DOI: 10.1002/wics.1246
+Hervé Abdi, Lynne J. Williams, Domininique Valentin. [Multiple factor analysis: principal component analysis for multitable and multiblock data sets](https://www.utdallas.edu/~herve/abdi-WiresCS-mfa-2013.pdf). Wiley Interdisciplinary Reviews: Computational Statistics 5.2 (2013) pp. 149–179. DOI: 10.1002/wics.1246
 
-Effect of Age on Variability in the Production of Text-Based Global Inferences
-Lynne J. Williams, Joseph P. Dunlop, Hervé Abdi
-PLoS ONE 7.5 (May 2012) e36161. DOI: 10.1371/journal.pone.0036161
+Lynne J. Williams, Joseph P. Dunlop, Hervé Abdi. [Effect of Age on Variability in the Production of Text-Based Global Inferences](https://www.utdallas.edu/~herve/abdi-wda2012_PLoS_Variability.pdf). PLoS ONE 7.5 (May 2012) e36161. DOI: 10.1371/journal.pone.0036161
 
-STATIS and DISTATIS: optimum multitable principal component analysis and three way metric multidimensional scaling
-Hervé Abdi, Lynne J. Williams, Domininique Valentin, Mohammed Bennani-Dosse
-Wiley Interdisciplinary Reviews: Computational Statistics 4.2 (2012) pp. 124–167. DOI: 10.1002/wics.198
+Hervé Abdi, Lynne J. Williams, Domininique Valentin, Mohammed Bennani-Dosse. [STATIS and DISTATIS: optimum multitable principal component analysis and three way metric multidimensional scaling](). Wiley Interdisciplinary Reviews: Computational Statistics 4.2 (2012) pp. 124–167. DOI: 10.1002/wics.198
 
-Multiple Subject Barycentric Discriminant Analysis (MUSUBADA): How to Assign Scans to Categories without Using Spatial Normalization
-Hervé Abdi, Lynne J. Williams, Andrew C. Connolly, M. Ida Gobbini, Joseph P. Dunlop, James V. Haxby
-Computational and Mathematical Methods in Medicine 2012.Article ID 634165 (2012) p. 15. DOI:10.1155/2012/634165
+Hervé Abdi, Lynne J. Williams, Andrew C. Connolly, M. Ida Gobbini, Joseph P. Dunlop, James V. Haxby. [Multiple Subject Barycentric Discriminant Analysis (MUSUBADA): How to Assign Scans to Categories without Using Spatial Normalization](https://www.utdallas.edu/~herve/abdi_awcgdh2012_musubada.pdf). Computational and Mathematical Methods in Medicine 2012.Article ID 634165 (2012) p. 15. DOI:10.1155/2012/634165
 
 Partial Least Squares (PLS) methods for neuroimaging: A tutorial and review
 Anjali Krishnan, Lynne J. Williams, Anthony Randal McIntosh, Hervé Abdi
