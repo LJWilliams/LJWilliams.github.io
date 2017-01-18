@@ -19,19 +19,19 @@ h6,
 /* --- Text Links --- */
 
 /* unvisited link grey */
-#top-menu a:link {
+a:link {
   color: #777;
 }
 /* visited link grey */
-#top-menu a:visited {
+a:visited {
   color: #777;
 }
 /* mouse over link blue */
-#top-menu a:hover {
+a:hover {
   color: #0CF;
 }
-/* selected link blue */
-#top-menu a:active {
+/* selected link blue */ 
+a:active {
   color: #0CF;
 }
 
