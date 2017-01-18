@@ -16,13 +16,23 @@ h6,
   color: #2990AB;
 }
 
-/* --- Link Color --- */
-a {
-  color: #42743F;
+/* --- Text Links --- */
+
+/* unvisited link grey */
+#top-menu a:link {
+  color: #777;
 }
-a:hover,
-a:focus {
-  color: #6EC069;
+/* visited link grey */
+#top-menu a:visited {
+  color: #777;
+}
+/* mouse over link blue */
+#top-menu a:hover {
+  color: #0CF;
+}
+/* selected link blue */
+#top-menu a:active {
+  color: #0CF;
 }
 
 /* --- Navbar --- */
