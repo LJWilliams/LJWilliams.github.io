@@ -18,9 +18,9 @@ h6,
 
 /* --- Text Links --- */
 
-/* unvisited link grey */
+/* unvisited link red */
 a:link {
-  color: #777;
+  color: #D81900;
 }
 /* visited link grey */
 a:visited {
