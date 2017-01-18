@@ -12,6 +12,10 @@ subtitle: Publications and Other Stuff
 <br>
 <br>
 <br>
+<section class="jumbotron">
+<p>...</p>
+<p><a class="btn btn-info btn-lg" role="button">Learn more</a></p>
+</section>
 
 | Technology Integration Manager |
 |-----------------------------------|
