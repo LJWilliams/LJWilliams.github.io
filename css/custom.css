@@ -37,6 +37,13 @@ a:active {
 
 /* --- Navbar --- */
 
+.navbar-default {
+  background-color: #2990AB;
+  border-color: #EAEAEA;
+}
+
+/* --- Navbar Home Page --- */
+
 .navbar-custom {
   background: #2990AB;
   border-bottom: 1px solid #EAEAEA;
