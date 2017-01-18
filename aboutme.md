@@ -12,8 +12,9 @@ subtitle: Publications and Other Stuff
 <br>
 <br>
 
-<div class="alert alert-success">
-Blah blah blah
+<div class="panel panel-default">
+  <div class="panel-heading">Panel Heading</div>
+  <div class="panel-body">Panel Content</div>
 </div>
 
 | Technology Integration Manager |
