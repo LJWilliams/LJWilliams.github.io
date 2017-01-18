@@ -29,7 +29,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   Home: ""
   Publications: "pubs"
-  Blog: "blog"
+  Blog: "blog.html"
   #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
