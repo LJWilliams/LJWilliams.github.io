@@ -5,7 +5,6 @@ title: Lynne J. Williams
 subtitle: Publications and Other Stuff
 ---
 <img align="left" src="/img/gaston-conference.jpeg">
-
 <section class="jumbotron">
 <h3>Technology Integration Manager</h3>
 <p>BC Children's Hospital Research MRI  <br> BC Children's Hospital <br>4480 Oak St, Vancouver, BC V6H 3N1 </p>
