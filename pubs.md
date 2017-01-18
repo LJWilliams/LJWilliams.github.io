@@ -11,7 +11,7 @@ subtitle: Publications and Other Stuff
 <br>
 <br>
 <section class="jumbotron">
-<p>Technology Integration Manager</p>
+<h3>Technology Integration Manager</h3>
 <p>BC Children's Hospital Research MRI  <br> BC Children's Hospital <br>4480 Oak St, Vancouver, BC V6H 3N1 </p>
 <p>Tel: (604) 875-2000</p>
 </section>
