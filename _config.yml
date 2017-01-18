@@ -27,8 +27,8 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "aboutmw"
-  Blog: ""
+  Home: ""
+  Blog: "blog"
   #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
