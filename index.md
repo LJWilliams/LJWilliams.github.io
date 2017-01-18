@@ -42,95 +42,56 @@ Hervé Abdi, Lynne J. Williams, Domininique Valentin, Mohammed Bennani-Dosse. [S
 
 Hervé Abdi, Lynne J. Williams, Andrew C. Connolly, M. Ida Gobbini, Joseph P. Dunlop, James V. Haxby. [Multiple Subject Barycentric Discriminant Analysis (MUSUBADA): How to Assign Scans to Categories without Using Spatial Normalization](https://www.utdallas.edu/~herve/abdi_awcgdh2012_musubada.pdf). Computational and Mathematical Methods in Medicine 2012.Article ID 634165 (2012) p. 15. DOI:10.1155/2012/634165
 
-Partial Least Squares (PLS) methods for neuroimaging: A tutorial and review
-Anjali Krishnan, Lynne J. Williams, Anthony Randal McIntosh, Hervé Abdi
-NeuroImage 56.2 (2011) pp. 455–475. DOI: http://dx.doi.org/10.1016/j.neuroimage.2010.07.034
+Anjali Krishnan, Lynne J. Williams, Anthony Randal McIntosh, Hervé Abdi. [Partial Least Squares (PLS) methods for neuroimaging: A tutorial and review](http://www.utdallas.edu/~herve/abdi-kwmaPLS4NeuroImage2011.pdf). NeuroImage 56.2 (2011) pp. 455–475. DOI: http://dx.doi.org/10.1016/j.neuroimage.2010.07.034
 
-Principal component analysis
-Hervé Abdi, Lynne J. Williams
-Wiley Interdisciplinary Reviews: Computational Statistics 2.4 (2010) pp. 433–459. DOI: 10.1002/wics.101
+Hervé Abdi, Lynne J. Williams. [Principal component analysis](http://www.utdallas.edu/~herve/abdi-awPCA2010.pdf). Wiley Interdisciplinary Reviews: Computational Statistics 2.4 (2010) pp. 433–459. DOI: 10.1002/wics.101
 
-Tutorial on Multi-Block Discriminant Correspondence Analysis (MUDICA): A new method for analyzing discourse data from clinical populations
-Lynne J. Williams, Hervé Abdi, Rebecca French, Joseph B. Orange
-Journal of Speech, Language and Hearing Research 54 (2010) pp. 1372–1393. DOI: 10.1044/1092-4388(2010/08-0141)
+Lynne J. Williams, Hervé Abdi, Rebecca French, Joseph B. Orange. [Tutorial on Multi-Block Discriminant Correspondence Analysis (MUDICA): A new method for analyzing discourse data from clinical populations](http://www.utdallas.edu/~herve/abdi-wafo-jlsr2010-mudica.pdf). Journal of Speech, Language and Hearing Research 54 (2010) pp. 1372–1393. DOI: 10.1044/1092-4388(2010/08-0141)
+ 
+- [Matlab programs for MUDICA and DICA](http://www.utdallas.edu/~herve/HerveAbdi_MatlabPrograms4MUDICA.zip)
+- [Derek Beaton's R programs for MUDICA and DICA](http://utdallas.edu/~dfb090020/attachments/MuDiCA.zip)
 
-How to compute reliability estimates and display confidence and tolerance intervals for pattern classifiers using the Bootstrap and 3-way multidimensional scaling (DISTATIS)
-Hervé Abdi, Joseph P. Dunlop, Lynne J. Williams
-NeuroImage 45.1 (2009) pp. 89–95. DOI: http://dx.doi.org/10.1016/j.neuroimage.2008.11.008
+Hervé Abdi, Joseph P. Dunlop, Lynne J. Williams. [How to compute reliability estimates and display confidence and tolerance intervals for pattern classifiers using the Bootstrap and 3-way multidimensional scaling (DISTATIS)](http://www.utdallas.edu/~herve/abdi-adw09-tmp.pdf). NeuroImage 45.1 (2009) pp. 89–95. DOI: http://dx.doi.org/10.1016/j.neuroimage.2008.11.008
 
-Cognitive-flexibility in macrostructure processing by older adults
+Lynne J. Williams-Hubbard. [Cognitive-flexibility in macrostructure processing by older adults](/pubs/Williams_Macrostructure.pdf)
 Brain and Language 99 (2006) pp. 187–188
 
-Toward holistic assessmnt of narrative quality: a clinical perspective
-Gloria Streit Olness, Hanna K. Ulatowska, Claire Carpenter, Lynne J. Williams, Julianna C. Dykes
-Aphasiology 19 (2005) pp. 215–220
+Gloria Streit Olness, Hanna K. Ulatowska, Claire Carpenter, Lynne J. Williams, Julianna C. Dykes. Toward holistic assessmnt of narrative quality: a clinical perspective. Aphasiology 19 (2005) pp. 215–220
 
-Macrostructure revisited: An examination of gist responses in aphasia
-Hanna K. Ulatowska, Gloria Streit Olness, Lynne J. Williams-Hubbard
-Brain and Language 35 (2005) pp. 109–110
+Hanna K. Ulatowska, Gloria Streit Olness, Lynne J. Williams-Hubbard. [Macrostructure revisited: An examination of gist responses in aphasia](/pubs/Ulatowska_Macrostructure.pdf). Brain and Language 35 (2005) pp. 109–110
 
-Evaluation of the effectiveness of two clinical training procedures to elicit yes/no responses from patients with a severe acquired brain injury: a randomized single-subject design
-Susan Barreca, Diana Velikonja, Lynn Brown, Lynne Williams, Lori Davis, Christopher S. Sigouin
-Brain Injury 17.12 (2003) pp. 1065–1075. DOI: 10.1080/0269905031000110535
+Susan Barreca, Diana Velikonja, Lynn Brown, Lynne Williams, Lori Davis, Christopher S. Sigouin. [Evaluation of the effectiveness of two clinical training procedures to elicit yes/no responses from patients with a severe acquired brain injury: a randomized single-subject design](/pubs/Barreca_Yes-No.pdf). Brain Injury 17.12 (2003) pp. 1065–1075. DOI: 10.1080/0269905031000110535
 
-The relationship between neuropsychological and discourse operations in adults with traumatic brain injury
-Lynne J. Williams, Joseph B. Orange
-Brain and Cognition 48 (2002) p. 252
+Lynne J. Williams, Joseph B. Orange. The relationship between neuropsychological and discourse operations in adults with traumatic brain injury. Brain and Cognition 48 (2002) p. 252
 
 ## Chapters and Other Collective Works
-Partial Least Square Methods: Partial Least Squares Correlation and Partial Least Squares Regression
-Hervé Abdi, Lynne J. Williams
-In Brad Reisfeld and Arthur N. Mayeno (eds.), Methods in Molecular Biology: Computational Toxicology. Springer Verlag: Berlin, pp. 549–579, 2013
+Hervé Abdi, Lynne J. Williams. [Partial Least Square Methods: Partial Least Squares Correlation and Partial Least Squares Regression](http://www.utdallas.edu/~herve/abdi-PLSC_and_PLSR2012.pdf). In Brad Reisfeld and Arthur N. Mayeno (eds.), Methods in Molecular Biology: Computational Toxicology. Springer Verlag: Berlin, pp. 549–579, 2013
 
-Barycentric discriminant analysis (BADIA)
-Hervé Abdi, Lynne J. Williams
-In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 64–75, 2010
+Hervé Abdi, Lynne J. Williams. [Barycentric discriminant analysis (BADIA)](http://www.utdallas.edu/~herve/abdi-badia2020-pretty.pdf). In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 64–75, 2010
 
-Contrast analysis
-Hervé Abdi, Lynne J. Williams
-In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 243–251, 2010
+Hervé Abdi, Lynne J. Williams. [Contrast analysis](http://www.utdallas.edu/~herve/abdi-contrasts2010-pretty.pdf). In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 243–251, 2010
 
-Coefficients of correlation, alienation, and determination
-Hervé Abdi, Lynne J. Williams
-In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 171–180, 2010
+Hervé Abdi, Lynne J. Williams. [Coefficients of correlation, alienation, and determination](http://www.utdallas.edu/~herve/abdi-correlation2010-pretty.pdf). In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 171–180, 2010
 
-Correspondence analysis
-Hervé Abdi, Lynne J. Williams
-In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 267–278, 2010
+Hervé Abdi, Lynne J. Williams. [Correspondence analysis](http://www.utdallas.edu/~herve/abdi-CorrespondenceAnaysis2010-pretty.pdf). In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 267–278, 2010
 
-Honestly significant difference (HSD0) test
-Hervé Abdi, Lynne J. Williams
-In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 583–585, 2010
+- [Matlab program for Correspondence analysis](http://www.utdallas.edu/~herve/abdi-CorrespondenceAnalysisMatlabProgram.zip)
 
-Jackknife
-Hervé Abdi, Lynne J. Williams
-In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 655–660, 2010
+Hervé Abdi, Lynne J. Williams. [Honestly significant difference (HSD0) test](http://www.utdallas.edu/~herve/abdi-HSD2010-pretty.pdf). In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 583–585, 2010
 
-Fisher's least significant difference (LSD) test
-Lynne J. Williams, Hervé Abdi
-In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 491–494, 2010
+Hervé Abdi, Lynne J. Williams. [Jackknife](http://www.utdallas.edu/~herve/abdi-Jackknife2010-pretty.pdf). In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 655–660, 2010
 
-Matrix algebra
-Hervé Abdi, Lynne J. Williams
-In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 761–776, 2010
+Lynne J. Williams, Hervé Abdi. [Fisher's least significant difference (LSD) test](http://www.utdallas.edu/~herve/abdi-LSD2010-pretty.pdf). In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 491–494, 2010
 
-Newman-Keuls and Tukey test
-Hervé Abdi, Lynne J. Williams
-In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 897–904, 2010
+Hervé Abdi, Lynne J. Williams. [Matrix algebra](http://www.utdallas.edu/~herve/abdi-MatrixAlgebra2010-pretty.pdf). In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 761–776, 2010
 
-Normalizing data
-Hervé Abdi, Lynne J. Williams
-In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 935–938, 2010
+Hervé Abdi, Lynne J. Williams. [Newman-Keuls and Tukey test](http://www.utdallas.edu/~herve/abdi-NewmanKeuls2010-pretty.pdf). In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 897–904, 2010
 
-Post-hoc comparisons
-Hervé Abdi, Lynne J. Williams
-In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 1060–1067, 2010
+Hervé Abdi, Lynne J. Williams. [Normalizing data](http://www.utdallas.edu/~herve/abdi-Normalizing2010-pretty.pdf). In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 935–938, 2010
 
-Dementia and Conversation
-Joseph B. Orange, Lynne J. Williams
-In N Louise Cummings (ed.), Pragmatics Encyclopedia. Routledge: pp. 105–108, 2010
+Hervé Abdi, Lynne J. Williams. [Post-hoc comparisons](http://www.utdallas.edu/~herve/abdi-PostHoc2010-pretty.pdf). In Neil J. Salkind (ed.), Encyclopedia of Research Design. Sage: Thousand Oaks, CA, pp. 1060–1067, 2010
+
+Joseph B. Orange, Lynne J. Williams. Dementia and Conversation. In N Louise Cummings (ed.), Pragmatics Encyclopedia. Routledge: pp. 105–108, 2010
 
 ## Proceedings (Peer Reviewed)
-Proverbs as a Tool to Elicit Reminiscence
-Lynne J. Williams
-Proceedings of the International Institute for Reminiscence and Life Review (IIRLR) November 15 & 16 2007, San Francisco, CA, 2007
+Lynne J. Williams. Proverbs as a Tool to Elicit Reminiscence. Proceedings of the International Institute for Reminiscence and Life Review (IIRLR) November 15 & 16 2007, San Francisco, CA, 2007
