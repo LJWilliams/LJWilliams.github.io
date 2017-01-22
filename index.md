@@ -50,7 +50,7 @@ Hervé Abdi, Lynne J. Williams. [Principal component analysis](http://www.utdall
 
 Lynne J. Williams, Hervé Abdi, Rebecca French, Joseph B. Orange. [Tutorial on Multi-Block Discriminant Correspondence Analysis (MUDICA): A new method for analyzing discourse data from clinical populations](http://www.utdallas.edu/~herve/abdi-wafo-jlsr2010-mudica.pdf). _Journal of Speech, Language and Hearing Research_ **54** (2010) pp. 1372–1393. DOI: 10.1044/1092-4388(2010/08-0141)
  
-- [Matlab programs for MUDICA and DICA](http://www.utdallas.edu/~herve/HerveAbdi_MatlabPrograms4MUDICA.zip)
+- [Hervé Abdi's Matlab programs for MUDICA and DICA](http://www.utdallas.edu/~herve/HerveAbdi_MatlabPrograms4MUDICA.zip)
 - [Derek Beaton's R programs for MUDICA and DICA](http://utdallas.edu/~dfb090020/attachments/MuDiCA.zip)
 
 Hervé Abdi, Joseph P. Dunlop, Lynne J. Williams. [How to compute reliability estimates and display confidence and tolerance intervals for pattern classifiers using the Bootstrap and 3-way multidimensional scaling (DISTATIS)](http://www.utdallas.edu/~herve/abdi-adw09-tmp.pdf). _NeuroImage_ **45.1** (2009) pp. 89–95. DOI: http://dx.doi.org/10.1016/j.neuroimage.2008.11.008
