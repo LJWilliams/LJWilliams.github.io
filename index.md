@@ -9,7 +9,7 @@ subtitle: Publications and Other Stuff
     <img align="left" src="/img/gaston-conference.png" style="width: 150px;">
     <br>
       <h3>Technology Integration Manager</h3>
-      <p>BC Children's Hospital MRI Research <br> 4480 Oak St, Vancouver, BC V6H 3N1 </p>
+      <p>BC Children's Hospital MRI Research Facility <br> 4480 Oak St, Vancouver, BC V6H 3N1 </p>
       <p>Tel: (604) 875-2000</p>
       </div>
 </section>
