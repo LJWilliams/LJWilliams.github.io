@@ -40,7 +40,9 @@ Hervé Abdi, Lynne J. Williams, Domininique Valentin. [Multiple factor analysis:
 
 Lynne J. Williams, Joseph P. Dunlop, Hervé Abdi. [Effect of Age on Variability in the Production of Text-Based Global Inferences](https://www.utdallas.edu/~herve/abdi-wda2012_PLoS_Variability.pdf). _PLoS ONE_ **7.5** (May 2012) e36161. DOI: 10.1371/journal.pone.0036161
 
-Hervé Abdi, Lynne J. Williams, Domininique Valentin, Mohammed Bennani-Dosse. [STATIS and DISTATIS: optimum multitable principal component analysis and three way metric multidimensional scaling](). _Wiley Interdisciplinary Reviews: Computational Statistics_ **4.2** (2012) pp. 124–167. DOI: 10.1002/wics.198
+Hervé Abdi, Lynne J. Williams, Domininique Valentin, Mohammed Bennani-Dosse. [STATIS and DISTATIS: optimum multitable principal component analysis and three way metric multidimensional scaling](https://www.utdallas.edu/~herve/abdi_Wires_AWVB2012_Final.pdf). _Wiley Interdisciplinary Reviews: Computational Statistics_ **4.2** (2012) pp. 124–167. DOI: 10.1002/wics.198
+
+Hervé Abdi, Lynne J. Williams, Derek Beaton, Mette Posamentier, Thomas S. Harris, Anjali Krishnan, & Micheal D. Devous (2012). [Analysis of regional cerebral blood flow data to discriminate among Alzheimer's disease, fronto-temporal dementia, and elderly controls: A multi-block barycentric discriminant analysis (MUBADA) methodology.](https://www.utdallas.edu/~herve/abdi-awbphkd-mubada2012.pdf) _Journal of Alzheimer Disease_ **31**, (2012) s189-s201. 
 
 Hervé Abdi, Lynne J. Williams, Andrew C. Connolly, M. Ida Gobbini, Joseph P. Dunlop, James V. Haxby. [Multiple Subject Barycentric Discriminant Analysis (MUSUBADA): How to Assign Scans to Categories without Using Spatial Normalization](https://www.utdallas.edu/~herve/abdi_awcgdh2012_musubada.pdf). _Computational and Mathematical Methods in Medicine_. **Article ID 634165** (2012) p. 15. DOI:10.1155/2012/634165
 
