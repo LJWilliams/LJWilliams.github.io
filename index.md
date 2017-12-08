@@ -69,6 +69,8 @@ Susan Barreca, Diana Velikonja, Lynn Brown, Lynne Williams, Lori Davis, Christop
 Lynne J. Williams, Joseph B. Orange. The relationship between neuropsychological and discourse operations in adults with traumatic brain injury. _Brain and Cognition_ **48** (2002) p. 252
 
 ## Chapters and Other Collective Works
+Hervé Abdi, Lynne J. Williams, Michel Bera (in Press, 2018). [Barycentric discriminant analysis (BADA)](https://www.utdallas.edu/~herve/abdi-BADA2018.pdf). In R. Alhajj and J. Rokne (Eds.), _Encyclopedia of Social Networks and Mining (2nd Edition)._ New York: Springer Verlag. 
+
 Hervé Abdi, Lynne J. Williams. [Partial Least Square Methods: Partial Least Squares Correlation and Partial Least Squares Regression](http://www.utdallas.edu/~herve/abdi-PLSC_and_PLSR2012.pdf). In Brad Reisfeld and Arthur N. Mayeno (eds.), _Methods in Molecular Biology: Computational Toxicology._ Springer Verlag: Berlin, pp. 549–579, 2013
 
 Hervé Abdi, Lynne J. Williams. [Barycentric discriminant analysis (BADIA)](http://www.utdallas.edu/~herve/abdi-badia2020-pretty.pdf). In Neil J. Salkind (ed.), _Encyclopedia of Research Design._ Sage: Thousand Oaks, CA, pp. 64–75, 2010
