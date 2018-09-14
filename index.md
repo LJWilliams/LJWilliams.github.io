@@ -15,10 +15,14 @@ subtitle: Publications and Other Stuff
 </section>
 
 # Publications
-**Updated:** January 18, 1017
+**Updated:** Septermber 14, 2018
 
 [Orchid ID](http://orcid.org/0000-0001-6790-1362) | 
 [Google Scholar Publication Metrics](https://scholar.google.ca/citations?user=PceWcxkAAAAJ&hl=en)
+
+## In Press
+
+Naama Rotem-Kohavi, Lynne J. Williams, Naznin Virji-Babul, Bruce H. Bjornson, Ursula Brain, Janet F. Werker, Ruth E. Grunau, Steven P. Miller, Tim F. Oberlander. [Alterations in Resting-State Networks Following In Utero Selective Serotonin Reuptake Inhibitor Exposure in the Neonatal Brain](https://www.biologicalpsychiatrycnni.org/article/S2451-9022(18)30209-X/abstract). _Biological Psychiatry: CNNI_. 
 
 ## Books
 
