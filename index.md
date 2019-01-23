@@ -108,6 +108,6 @@ Joseph B. Orange, Lynne J. Williams. Dementia and Conversation. In N Louise Cumm
 Lynne J. Williams. Proverbs as a Tool to Elicit Reminiscence. _Proceedings of the International Institute for Reminiscence and Life Review (IIRLR) November 15 & 16 2007,_ San Francisco, CA, 2007
 
 ## Presentations (Non-Peer Reviewed)
-Lynne J Williams. The Altered Language Connectome in Children. Job Talk Presentation (School of Audiology and Speech Sciences), 21 Jan 2019. [Keynote](presentations/2019Jan21_SASS_LJWilliams_Jobtalk.key), [Powerpoint](presentations/2019Jan21_SASS_LJWilliams_Jobtalk.pptx).
+Lynne J Williams. _The Altered Language Connectome in Children._ Job Talk Presentation (School of Audiology and Speech Sciences), 21 Jan 2019. [Keynote](presentations/2019Jan21_SASS_LJWilliams_Jobtalk.key), [Powerpoint](presentations/2019Jan21_SASS_LJWilliams_Jobtalk.pptx).
 
-Lynne J Williams. Noise in fMRI. Teaching Talk Presenation (School of Audiology and Speech Sciences), 22 Jan 2019. [Keynote](presentations/2019Jan22_SASS_LJWilliams_TeachingTalk.key), [Powerpoint](presentations/2019Jan22_SASS_LJWilliams_TeachingTalk.pptx)
+Lynne J Williams. _Noise in fMRI._ Teaching Talk Presenation (School of Audiology and Speech Sciences), 22 Jan 2019. [Keynote](presentations/2019Jan22_SASS_LJWilliams_TeachingTalk.key), [Powerpoint](presentations/2019Jan22_SASS_LJWilliams_TeachingTalk.pptx)
