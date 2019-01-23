@@ -15,13 +15,12 @@ subtitle: Publications and Other Stuff
 </section>
 
 # Publications
-**Updated:** January 18, 1017
+**Updated:** January 23, 2019
 
 [Orchid ID](orcid.org/0000-0001-6790-1362) | 
 [Google Scholar Publication Metrics](https://scholar.google.ca/citations?user=PceWcxkAAAAJ&hl=en)
 
 ## Books
-
 Hervé Abdi, Lynne J. Williams, Betty Edelman, Dominique Valentin, Mette Posamentier. [_Exercises for Experimental Design and Analysis for Psychology_](http://global.oup.com/uk/orc/psychology/abdi/). Oxford University Press: Oxford, UK, 2010  
 
 - [Errata (Oooooops!)](http://www.utdallas.edu/~herve/Errata_AEVD09.pdf)  
@@ -32,6 +31,9 @@ Lynne J. Williams, Anjali Krishnan, Hervé Abdi. [_R Companion for Experimental 
 Lynne J. Williams, Mette T. Posamentier, Betty E. Edelman, Hervé Abdi. [_SAS Companion for Experimental Design and Analysis for Psychology_](http://www.utdallas.edu/~herve/SAS_comp4Abdi_ExperimentalDesign.pdf). Oxford University Press: Oxford, UK, 2009
 
 ## Articles (Peer Reviewed)
+Naama Rotem-Kohavi, Lynne J Williams, Naznin Virji-Babul, Bruce H Bjornson, Ursula Brain, Janet F Werker, Ruth E Grunau, Steven P Miller, Tim F Oberlander. [Alterations in Resting-State Networks Following In Uterao Selective Serotonin Reuptake Inhibitor Exposure in the Neonatal Brain](pubs/Rotem-Kohavi_2019_Alterations_in_Resting-State_Networks_Following_In_Utero_Selective_Serotonin_Reuptake_Inhibitor_Exposure_in_the_Neonatal_Brain.pdf). _Biological Psychiatry: Cognitive Neuroscience and Neuroimaging_ **4(1)** (2019). DOI: https://doi.org/10.1016/j.bpsc.2018.08.004
+
+
 Erin J White, Stefanie A Hutka, Lynne J Williams, Sylvain Moreno. [Learning, neural plasticity and sensitive periods: implications for language acquisition, music training and transfer across the lifespan](/pubs/fnsys-07-00090.pdf). _Frontiers in Systems Neuroscience_ **7.90** (2013) DOI: 10.3389/fnsys.2013.00090
 
 Daniela J. Palombo, Lynne J. Williams, Hervé Abdi, Brian Levine. [The survey of autobiographical memory (SAM): A novel measure of trait mnemonics in everyday life](https://www.utdallas.edu/~herve/abdi-pwal2012-SAM.pdf). _Cortex_ **49.6** (2013) pp. 1526–1540. DOI: http://dx.doi.org/10.1016/j.cortex.2012.08.023
@@ -97,3 +99,8 @@ Joseph B. Orange, Lynne J. Williams. Dementia and Conversation. In N Louise Cumm
 
 ## Proceedings (Peer Reviewed)
 Lynne J. Williams. Proverbs as a Tool to Elicit Reminiscence. _Proceedings of the International Institute for Reminiscence and Life Review (IIRLR) November 15 & 16 2007,_ San Francisco, CA, 2007
+
+## Presentations (Non-Peer Reviewed)
+Lynne J Williams. The Altered Language Connectome in Children. Job Talk Presentation (School of Audiology and Speech Sciences), 21 Jan 2019. [Keynote](presentations/2019Jan21_SASS_LJWilliams_Jobtalk.key), [Powerpoint](presentations/2019Jan21_SASS_LJWilliams_Jobtalk.pptx).
+
+Lynne J Williams. Noise in fMRI. Teaching Talk Presenation (School of Audiology and Speech Sciences), 22 Jan 2019. [Keynote](presentations/2019Jan22_SASS_LJWilliams_TeachingTalk.key), [](presentations/2019Jan22_SASS_LJWilliams_TeachingTalk.pptx)
