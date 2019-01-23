@@ -110,4 +110,4 @@ Lynne J. Williams. Proverbs as a Tool to Elicit Reminiscence. _Proceedings of th
 ## Presentations (Non-Peer Reviewed)
 Lynne J Williams. The Altered Language Connectome in Children. Job Talk Presentation (School of Audiology and Speech Sciences), 21 Jan 2019. [Keynote](presentations/2019Jan21_SASS_LJWilliams_Jobtalk.key), [Powerpoint](presentations/2019Jan21_SASS_LJWilliams_Jobtalk.pptx).
 
-Lynne J Williams. Noise in fMRI. Teaching Talk Presenation (School of Audiology and Speech Sciences), 22 Jan 2019. [Keynote](presentations/2019Jan22_SASS_LJWilliams_TeachingTalk.key), [](presentations/2019Jan22_SASS_LJWilliams_TeachingTalk.pptx)
+Lynne J Williams. Noise in fMRI. Teaching Talk Presenation (School of Audiology and Speech Sciences), 22 Jan 2019. [Keynote](presentations/2019Jan22_SASS_LJWilliams_TeachingTalk.key), [Powerpoint](presentations/2019Jan22_SASS_LJWilliams_TeachingTalk.pptx)
