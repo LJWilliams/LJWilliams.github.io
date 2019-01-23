@@ -1,4 +1,4 @@
-# --- Serving options --- #
+ch# --- Serving options --- #
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
@@ -29,6 +29,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   Publications: ""
   Blog: "blog"
+  Teaching: "workshops"
   #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #

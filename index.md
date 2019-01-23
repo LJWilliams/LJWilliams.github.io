@@ -8,8 +8,8 @@ subtitle: Publications and Other Stuff
   <div class="container">
     <img align="left" src="/img/gaston-conference.png" style="width: 150px;">
     <br>
-      <h3>Technology Integration Manager</h3>
-      <p>BC Children's Hospital MRI Research <br> 4480 Oak St, Vancouver, BC V6H 3N1 </p>
+      <h3>Staff Scientist & Technology Integration Manager</h3>
+      <p>BC Children's Hospital MRI Research Facility <br> 4480 Oak St, Vancouver, BC V6H 3N1 </p>
       <p>Tel: (604) 875-2000</p>
       </div>
 </section>
@@ -17,8 +17,11 @@ subtitle: Publications and Other Stuff
 # Publications
 **Updated:** January 23, 2019
 
-[Orchid ID](orcid.org/0000-0001-6790-1362) | 
+[Orchid ID](http://orcid.org/0000-0001-6790-1362) | 
 [Google Scholar Publication Metrics](https://scholar.google.ca/citations?user=PceWcxkAAAAJ&hl=en)
+
+## In Press
+
 
 ## Books
 Hervé Abdi, Lynne J. Williams, Betty Edelman, Dominique Valentin, Mette Posamentier. [_Exercises for Experimental Design and Analysis for Psychology_](http://global.oup.com/uk/orc/psychology/abdi/). Oxford University Press: Oxford, UK, 2010  
@@ -42,7 +45,9 @@ Hervé Abdi, Lynne J. Williams, Domininique Valentin. [Multiple factor analysis:
 
 Lynne J. Williams, Joseph P. Dunlop, Hervé Abdi. [Effect of Age on Variability in the Production of Text-Based Global Inferences](https://www.utdallas.edu/~herve/abdi-wda2012_PLoS_Variability.pdf). _PLoS ONE_ **7.5** (May 2012) e36161. DOI: 10.1371/journal.pone.0036161
 
-Hervé Abdi, Lynne J. Williams, Domininique Valentin, Mohammed Bennani-Dosse. [STATIS and DISTATIS: optimum multitable principal component analysis and three way metric multidimensional scaling](). _Wiley Interdisciplinary Reviews: Computational Statistics_ **4.2** (2012) pp. 124–167. DOI: 10.1002/wics.198
+Hervé Abdi, Lynne J. Williams, Domininique Valentin, Mohammed Bennani-Dosse. [STATIS and DISTATIS: optimum multitable principal component analysis and three way metric multidimensional scaling](https://www.utdallas.edu/~herve/abdi_Wires_AWVB2012_Final.pdf). _Wiley Interdisciplinary Reviews: Computational Statistics_ **4.2** (2012) pp. 124–167. DOI: 10.1002/wics.198
+
+Hervé Abdi, Lynne J. Williams, Derek Beaton, Mette Posamentier, Thomas S. Harris, Anjali Krishnan, & Micheal D. Devous (2012). [Analysis of regional cerebral blood flow data to discriminate among Alzheimer's disease, fronto-temporal dementia, and elderly controls: A multi-block barycentric discriminant analysis (MUBADA) methodology.](https://www.utdallas.edu/~herve/abdi-awbphkd-mubada2012.pdf) _Journal of Alzheimer Disease_ **31**, (2012) s189-s201. 
 
 Hervé Abdi, Lynne J. Williams, Andrew C. Connolly, M. Ida Gobbini, Joseph P. Dunlop, James V. Haxby. [Multiple Subject Barycentric Discriminant Analysis (MUSUBADA): How to Assign Scans to Categories without Using Spatial Normalization](https://www.utdallas.edu/~herve/abdi_awcgdh2012_musubada.pdf). _Computational and Mathematical Methods in Medicine_. **Article ID 634165** (2012) p. 15. DOI:10.1155/2012/634165
 
@@ -69,6 +74,8 @@ Susan Barreca, Diana Velikonja, Lynn Brown, Lynne Williams, Lori Davis, Christop
 Lynne J. Williams, Joseph B. Orange. The relationship between neuropsychological and discourse operations in adults with traumatic brain injury. _Brain and Cognition_ **48** (2002) p. 252
 
 ## Chapters and Other Collective Works
+Hervé Abdi, Lynne J. Williams, Michel Bera (2018). [Barycentric discriminant analysis (BADA)](https://www.utdallas.edu/~herve/abdi-BADA2018.pdf). In R. Alhajj and J. Rokne (Eds.), _Encyclopedia of Social Networks and Mining (2nd Edition)._ New York: Springer Verlag. 
+
 Hervé Abdi, Lynne J. Williams. [Partial Least Square Methods: Partial Least Squares Correlation and Partial Least Squares Regression](http://www.utdallas.edu/~herve/abdi-PLSC_and_PLSR2012.pdf). In Brad Reisfeld and Arthur N. Mayeno (eds.), _Methods in Molecular Biology: Computational Toxicology._ Springer Verlag: Berlin, pp. 549–579, 2013
 
 Hervé Abdi, Lynne J. Williams. [Barycentric discriminant analysis (BADIA)](http://www.utdallas.edu/~herve/abdi-badia2020-pretty.pdf). In Neil J. Salkind (ed.), _Encyclopedia of Research Design._ Sage: Thousand Oaks, CA, pp. 64–75, 2010
