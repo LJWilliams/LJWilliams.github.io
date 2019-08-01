@@ -28,7 +28,8 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   Publications: ""
-  Teaching: "workshops"
+  Teaching: 
+    - Workshops: "workshops"
   #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
