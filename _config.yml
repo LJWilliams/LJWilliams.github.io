@@ -40,7 +40,7 @@ author:
   #email: "daattali@gmail.com"
   #facebook: daattali
   github: LJWilliams
-  #twitter: daattali
+  #twitter: lynnejwilliams
   linkedin: "https://ca.linkedin.com/in/lynnejwilliams"
   #stackoverflow: "users/3943160/daattali"
  
@@ -53,6 +53,12 @@ footer-links-active:
   github: true
   linkedin: true
   stackoverflow: false
+  
+share-links-active:
+  twitter: true
+  facebook: true
+  google: false
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -79,9 +85,18 @@ paginate: 5
 defaults:
   -
     scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts 
+      show-share: true # add sharing buttons to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
       path: "" # all files
     values:
-      layout: "default"
+      layout: "page"
 
 # Exclude these files from production site
 exclude:
