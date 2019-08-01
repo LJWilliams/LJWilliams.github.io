@@ -30,6 +30,11 @@ navbar-links:
   Publications: ""
   Blog: "blog"
   Teaching: "workshops"
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+  Author's home: "http://deanattali.com"
   #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
