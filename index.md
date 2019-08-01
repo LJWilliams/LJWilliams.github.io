@@ -15,7 +15,7 @@ subtitle: Publications and Other Stuff
 </section>
 
 # Publications
-**Updated:** January 23, 2019
+**Updated:** August 1, 2019
 
 [Orchid ID](http://orcid.org/0000-0001-6790-1362) | 
 [Google Scholar Publication Metrics](https://scholar.google.ca/citations?user=PceWcxkAAAAJ&hl=en)
