@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Teaching
+subtitle: Lynne J Williams
 ---
 
 <center>
-  <strong>Lynne J Williams</strong><br>
   Staff Scientist & Technology Integration Manager<br>
   BC Children's Hospital MRI Research Facility
 </center>
