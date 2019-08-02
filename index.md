@@ -20,8 +20,6 @@ subtitle: Publications and Other Stuff
 [Orchid ID](http://orcid.org/0000-0001-6790-1362) | 
 [Google Scholar Publication Metrics](https://scholar.google.ca/citations?user=PceWcxkAAAAJ&hl=en)
 
-## In Press
-
 
 ## Books
 Hervé Abdi, Lynne J. Williams, Betty Edelman, Dominique Valentin, Mette Posamentier. [_Exercises for Experimental Design and Analysis for Psychology_](http://global.oup.com/uk/orc/psychology/abdi/). Oxford University Press: Oxford, UK, 2010  
