@@ -3,7 +3,11 @@ layout: page
 title: Teaching
 ---
 
-## Lynne J Williams
+<center>
+  Lynne J Williams
+  Staff Scientist & Technology Integration Manager
+  BC Children's Hospital MRI Research Facility
+<\center>
 
 # Workshops
 
