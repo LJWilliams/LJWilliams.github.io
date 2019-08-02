@@ -7,8 +7,12 @@ title: Teaching
 
 ## 2019
 [Introduction to MRI](https://hub.bcchr.ca/display/equip/MRI+Education+Series) (open to BC Children's Hospital Research Institute Members)
-- Lecture 1: [Introduction to MRI Physics]()
-- Lecture 2: [???]() 
+- Week 1: Introduction to MR Physics
+- Week 2: Structural MRI
+- Week 3: Functional MRI Part 1
+- Week 4: Functional MRI Part 2
+- Week 5: Diffusion Imaging Part 1
+- Programming Tips for Reproducible Research
 
 ## 2018
 [Introduction to MRI](https://hub.bcchr.ca/display/equip/MRI+Education+Series) (open to BC Children's Hospital Research Institute Members)
