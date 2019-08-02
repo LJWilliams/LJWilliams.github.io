@@ -33,8 +33,8 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  Teaching: 
-    - Workshops: "workshops"
+  Publications: " "
+  Teaching: "workshops"
   #Author's home: "http://deanattali.com"
   
 # --- Footer options --- #
