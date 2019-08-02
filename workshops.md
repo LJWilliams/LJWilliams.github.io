@@ -3,6 +3,8 @@ layout: page
 title: Teaching
 ---
 
+## Lynne J Williams
+
 # Workshops
 
 ## 2019
