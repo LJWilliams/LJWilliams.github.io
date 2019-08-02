@@ -35,7 +35,7 @@ Lynne J. Williams, Mette T. Posamentier, Betty E. Edelman, Hervé Abdi. [_SAS Co
 
 ## Articles (Peer Reviewed)
 
-Naama Rotem‐Kohavi, Lynne J. Williams, Angela M. Muller, Hervé Abdi, Naznin Virji‐Babul, Bruce H. Bjornson, Ursula Brain, Janet F. Werker, Ruth E. Grunau, Steven P. Miller, Tim F. Oberlander. [Hub distribution of the brain functional networks of newborns prenatally exposed to maternal depression and SSRI antidepressants](https://onlinelibrary.wiley.com/doi/full/10.1002/da.22906). _Depression & Anxiety_ ** ** (2019). DOI:  https://doi.org/10.1002/da.22906
+Naama Rotem‐Kohavi, Lynne J. Williams, Angela M. Muller, Hervé Abdi, Naznin Virji‐Babul, Bruce H. Bjornson, Ursula Brain, Janet F. Werker, Ruth E. Grunau, Steven P. Miller, Tim F. Oberlander. [Hub distribution of the brain functional networks of newborns prenatally exposed to maternal depression and SSRI antidepressants](https://onlinelibrary.wiley.com/doi/full/10.1002/da.22906). _Depression & Anxiety_ **36**753–765 (2019). DOI:  https://doi.org/10.1002/da.22906
 
 Naama Rotem-Kohavi, Lynne J Williams, Naznin Virji-Babul, Bruce H Bjornson, Ursula Brain, Janet F Werker, Ruth E Grunau, Steven P Miller, Tim F Oberlander. [Alterations in Resting-State Networks Following In Uterao Selective Serotonin Reuptake Inhibitor Exposure in the Neonatal Brain](pubs/Rotem-Kohavi_2019_Alterations_in_Resting-State_Networks_Following_In_Utero_Selective_Serotonin_Reuptake_Inhibitor_Exposure_in_the_Neonatal_Brain.pdf). _Biological Psychiatry: Cognitive Neuroscience and Neuroimaging_ **4(1)** (2019). DOI: https://doi.org/10.1016/j.bpsc.2018.08.004
 
