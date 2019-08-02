@@ -4,7 +4,7 @@ title: Teaching
 ---
 
 <center>
-  <h3>Lynne J Williams</h3>
+  <strong>Lynne J Williams</strong><br>
   Staff Scientist & Technology Integration Manager<br>
   BC Children's Hospital MRI Research Facility
 </center>
