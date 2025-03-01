@@ -62,3 +62,7 @@ end
 gem 'wdm' if Gem.win_platform?
 gem "tzinfo-data" if Gem.win_platform?
 
+# Add github pages gem
+gem "github-pages", "~> 232", group: :jekyll_plugins
+
+
